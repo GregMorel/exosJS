@@ -19,3 +19,4 @@ Créez une page contenant un court formulaire composé de deux champs de texte `
 Créez une page contenant un champ texte et deux boutons `Ajouter` et `Supprimer`. Le bouton `Ajouter` crée un nouvel item d'une liste avec le texte sélectionné, le bouton `Supprimer` supprime le dernier item de la liste.
 
 ## Exercice 7 : stéganographie
+Exercice beaucoup plus long, voir sujet à part.
